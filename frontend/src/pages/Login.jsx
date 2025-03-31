@@ -42,7 +42,7 @@ export default function Login(){
             }
             if(response.ok){
                 setEmptyFields([]);
-                toast.success('Logged in successfully');
+                toast.success('Logged in successfully✅✅');
     
                 // save the user to local storage
                 localStorage.setItem('user', JSON.stringify(json));

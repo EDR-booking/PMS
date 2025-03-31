@@ -190,7 +190,7 @@ form.signup, form.login {
 .request-details p{
   margin: 0;
   font-size: 0.9em;
-  color: #555;
+  color: #646363;
 }
 .request-details .status{
   color: var(--error);
